@@ -1,5 +1,14 @@
 <html lang="zh-Hant">
 <head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NW3ZSP789E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NW3ZSP789E');
+</script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>在宅醫療 × 健保商保協力｜2026 在宅醫療金融保險創新論壇彙刊</title>
