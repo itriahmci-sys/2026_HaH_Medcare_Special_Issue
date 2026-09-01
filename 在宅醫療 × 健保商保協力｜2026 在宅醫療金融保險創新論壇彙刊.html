@@ -695,6 +695,7 @@ footer .meta{margin-top:34px; font-size:12px; opacity:.6;}
     <p>秘書處聯絡方式</p>
     <a class="btn" href="mailto:itriahmci@gmail.com">itriahmci@gmail.com</a>
     <a class="btn" href="mailto:SmartMedHealth@itri.org.tw">SmartMedHealth@itri.org.tw</a>
+    <a class="btn" href="https://itriahmci-sys.github.io/2026Q3_report/" target="_blank" rel="noopener">論壇演講精彩摘要</a>
     <div class="meta">整理自｜2026 在宅醫療金融保險創新論壇彙刊（重新編排版）</div>
   </div>
 </footer>
